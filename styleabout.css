@@ -1,0 +1,42 @@
+body {
+    background-color:beige;
+}
+
+
+header {
+    text-align: center;
+    background-size: cover;
+    color: aliceblue;
+}
+
+a {
+    color: red;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    color: black;
+    font-size: 30px;
+}
+
+img {
+    margin: 20px 0px 0px 0px;
+    border: 7px solid white;
+    border-radius: 10px;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    padding: 0px 5px 0px 5px;
+}
+article {
+    max-width: 500px;
+    padding: 0px;
+    margin: 0 auto;
+}
